@@ -20,6 +20,9 @@
 - SUBSTRING, POSITION, COALESCE
 - MIN, MAX, AVG, SUM, COUNT
 - GROUP BY, HAVING
+- CASE ( with GROUP BY & for transposing data )
+- JOIN, UNION
+- Subqueries
 
 ---------------------------------------------
 refer : https://www.youtube.com/watch?v=MvcDM2nLdzI
